@@ -1,0 +1,9 @@
+#packages
+node_modules
+#dotenv
+.env
+dev.env
+prod.env
+test.env
+.env.example
+example.env
